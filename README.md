@@ -1,3 +1,0 @@
-# GithubAppLab
-
-Readme for GithubAppLab
